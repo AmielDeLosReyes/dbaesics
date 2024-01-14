@@ -7269,6 +7269,33 @@ body {
 .color-option .color-categories li a.tt-red {
   background-color: red;
 }
+/*  */
+.color-option .color-categories li a.tt-brown {
+  background-color: #A52A2A;
+}
+.color-option .color-categories li a.tt-hotpink {
+  background-color: #FF69B4;
+}
+.color-option .color-categories li a.tt-applegreen {
+  background-color: #8DB600;
+}
+.color-option .color-categories li a.tt-taupe {
+  background-color: #483C32;
+}
+.color-option .color-categories li a.tt-powderblue {
+  background-color: #5C87F0;
+}
+.color-option .color-categories li a.tt-midnightblue {
+  background-color: #191970;
+}
+.color-option .color-categories li a.tt-oldrose {
+  background-color: #C08081;
+}
+.color-option .color-categories li a.tt-maroon {
+  background-color: #800000;
+}
+/*  */
+
 
 .form-control {
   font-size: 13px;
